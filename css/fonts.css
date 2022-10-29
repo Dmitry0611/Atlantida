@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat'),
+        url('../fonts/Montserrat-Bold.ttf') format('ttf');
+        font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat'),
+        url('../fonts/Montserrat-Regular.ttf') format('ttf');
+        font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: local('Montserrat'),
+        url('../fonts/Montserrat-Italic.ttf') format('ttf');
+        font-style: italic;
+}
+
+@font-face {
+    font-family: 'Amsdam';
+    src: local('Montserrat'),
+        url('../fonts/AmsdamRegular.ttf') format('ttf');
+        font-size: 400;
+}
+
+@font-face {
+    font-family: 'CrimsonText';
+    src: local('Montserrat'),
+        url('../fonts/CrimsonText-Bold.ttf') format('ttf');
+        font-size: 800;
+}
+
+@font-face {
+    font-family: 'CrimsonText';
+    src: local('Montserrat'),
+        url('../fonts/CrimsonText-Regular.ttf') format('ttf');
+        font-weight: 400;
+}
+
+@font-face {
+    font-family: 'CrimsonText';
+    src: local('Montserrat'),
+        url('../fonts/CrimsonText-Italic.ttf') format('ttf');
+        font-style: italic;
+}

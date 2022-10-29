@@ -1,0 +1,102 @@
+@media (max-width: 1024px) {
+    .container {
+        padding: 0 50px;
+    }
+    .input_name, .input_mail,
+    .input_phone, .input_website,
+    .input_message {
+        width: 93%;
+    }
+}
+
+@media (max-width: 768px) {
+    .header_header h1 {
+        font-size: 30px;
+    }
+    .section_left {
+        width: 60%;
+    }
+    .section_right {
+        width: 40%;
+        margin-left: 20px;
+    }
+    .form_search {
+        width: 100%;
+    }
+    .section_right-post1,
+    .section_right-post2,
+    .section_right-post3,
+    .section_right-post4 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 495px) {
+    .header_caption {
+        margin-right: 20px;
+    }
+    .header_header h1 {
+        font-size: 20px;
+    }
+    .header_header-line {
+        width: 70%;
+    }
+    .section_flex {
+        display: block;
+    }
+    .section_left, .section_right {
+        width: 100%;
+    }
+    .section_left-header  {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+    .section_left-data, .section_left-icon  {
+        font-size: 12px;
+    }
+    .section_left-text {
+        font-size: 12px;
+    }
+    .section_left-btn {
+        margin: 0 auto;
+        width: 120px;
+    }
+    .section_left-btn a {
+        padding: 14px 27px;
+        font-size: 12px;
+    }
+    .section_right {
+        padding-left: 0px;
+        margin-left: 0px;
+    }
+    .section_right-flickr {
+        padding: 30px 0;
+        text-align: center;
+    }
+    .section_right-flickr-photo-3,
+    .section_right-flickr-photo-6 {
+        padding-top: 10px;
+    }
+    .footer_flex {
+        display: block;
+    }
+    .footer_flex-left {
+        text-align: center;
+        padding-top: 50px;
+    }
+    .footer_flex-right {
+        padding-left: 0px;
+        padding-top: 50px;
+    }
+    .footer_logo {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .input_name, .input_mail,
+    .input_phone, .input_website,
+    .input_message {
+        width: 93%;
+    }
+
+}

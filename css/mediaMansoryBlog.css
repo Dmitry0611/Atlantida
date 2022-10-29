@@ -1,0 +1,89 @@
+
+@media (max-width: 1024px) {
+    .container {
+        padding: 0 50px;
+    }
+    .section_col-first,
+    .section_col-second, .section_col-three {
+        padding-right: 25px;
+    }
+    .input_name, .input_mail,
+    .input_phone, .input_website,
+    .input_message {
+        width: 93%;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 0 130px;
+    }
+    .header_header h1 {
+        font-size: 30px;
+    }
+    .section_flex {
+        display: block;
+    }
+    .section_col-first,
+    .section_col-second, .section_col-three {
+        padding-right: 0px;
+        width: 100%;
+    }
+    .section_inner-1, .section_inner-2,
+    .section_inner-3, .section_inner-4,
+    .section_inner-5, .section_inner-6,
+    .section_inner-7, .section_inner-8,
+    .section_inner-9 {
+        padding-top: 60px;
+    }
+    .section_inner-btn {
+        margin: 0 auto;
+    }
+    footer .container {
+        padding: 0 50px;
+    }
+    .footer_flex {
+        display: block;
+    }
+    .footer_flex-left {
+        text-align: center;
+        padding-top: 50px;
+    }
+    .footer_flex-right {
+        padding-left: 0px;
+        padding-top: 50px;
+    }
+    .footer_logo {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .input_name, .input_mail,
+    .input_phone, .input_website,
+    .input_message {
+        width: 93%;
+    }
+}
+
+
+
+@media (max-width: 414px) {
+    .container {
+        padding: 0 20px;
+    }
+    .header_header h1 {
+        font-size: 20px;
+    }
+    .header_header-line {
+        width: 70%;
+    }
+    .section {
+        padding-top: 50px;
+    }
+    .section_inner-1 {
+        padding-top: 0px;
+    }
+    .section_inner-btn {
+        margin: 0 auto;
+    }
+}
